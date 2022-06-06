@@ -8,4 +8,6 @@ composer require google/apiclient:^2.0
 Then Include The "google_config.php" File WHere you Want to Integrate It 
 <br>
 button in html for Login <br>
-<a href="<?php echo $google_client->createAuthUrl() ?>"></a>
+<pre>
+<a href="<?php echo $google_client->createAuthUrl() ?>">Login With Google</a>
+</pre>
