@@ -1,7 +1,8 @@
 # GoogleLogin<br />
 Google Login
 <br /><br />
-Use Command to Install The Client Service&nbsp;
+Use Command to Install The Client Service <br />
+&nbsp;
 composer require google/apiclient:^2.0<br /><br />
 Then Include The "google_config.php" File WHere you Want to Integrate It
 
